@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ6c2sxeGV3dnRyNXNrOHgxMWs5cmV0MG5mc3kycDhqYnBzdDU1YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aZjXR25WR3oMfvv1qq/giphy.gif" width="50px">&nbsp;***About me***
 
-I am a **Cybersecurity student** focused on bridging development and defense. My goal is to build, optimize, and secure digital infrastructures. I leverage an analytical mindset to proactively identify vulnerabilities and mitigate risks. I love to learn and build something new, robust, and secure.
+I'm a **Cybersecurity student** focused on bridging development and defense. My goal is to build, optimize, and secure digital infrastructures. I leverage an analytical mindset to proactively identify vulnerabilities and mitigate risks. I love to learn and build something new, robust, and secure.
 
 - ⚡ Currently learning new things every single day.
 - ☕ I run on coffee and curiosity!
