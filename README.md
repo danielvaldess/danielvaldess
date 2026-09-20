@@ -34,15 +34,6 @@ I'm a **Cybersecurity technician** focused on bridging development and defense. 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Featured Projects
-
-| Project | What it is |
-|---------|------------|
-| [**Mosaic**](https://github.com/danielvaldess/mosaic) | Customer installed-base intelligence with **on-device AI** (QVAC + Qwen3). Philips hackathon. |
-| [**SweetQR**](https://github.com/danielvaldess/sweetqr) | QR generator (web + CLI). Privacy-first, no backend. |
-| [**Pyoffensive-tools**](https://github.com/danielvaldess/Pyoffensive-tools) | Offensive-security tools in Python (port scanner, ICMP discovery, keylogger). |
-| [**Portfolio**](https://danielvaldess.github.io/) | Personal site with CTF writeups and a music player. |
-
 ## GitHub Stats
 
 <p align="center">
