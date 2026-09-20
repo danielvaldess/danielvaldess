@@ -1,4 +1,10 @@
-<h1 align="center"><b>Hi , I'm Daniel Valdés </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Daniel Valdés</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/daniel--valdes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://danielvaldess.github.io/"><img src="https://img.shields.io/badge/Portfolio-1E3A6E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/danielvaldess"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <img align="right" width=300px alt="Link Zelda" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ6c2sxeGV3dnRyNXNrOHgxMWs5cmV0MG5mc3kycDhqYnBzdDU1YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q9p2zBlMr5aN8TPzi2/giphy.gif" />
 
@@ -27,3 +33,23 @@ I'm a **Cybersecurity technician** focused on bridging development and defense. 
 <h4> Other Tools and Technologies </h4>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Featured Projects
+
+| Project | What it is |
+|---------|------------|
+| [**Mosaic**](https://github.com/danielvaldess/mosaic) | Customer installed-base intelligence with **on-device AI** (QVAC + Qwen3). Philips hackathon. |
+| [**SweetQR**](https://github.com/danielvaldess/sweetqr) | QR generator (web + CLI). Privacy-first, no backend. |
+| [**Pyoffensive-tools**](https://github.com/danielvaldess/Pyoffensive-tools) | Offensive-security tools in Python (port scanner, ICMP discovery, keylogger). |
+| [**Portfolio**](https://danielvaldess.github.io/) | Personal site with CTF writeups and a music player. |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielvaldess&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvaldess&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Bridging development and defense.</i></p>
