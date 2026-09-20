@@ -46,8 +46,16 @@ I'm a **Cybersecurity technician** focused on bridging development and defense. 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" alt="Daniel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=danielvaldess&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvaldess&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" alt="Daniel's GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielvaldess&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielvaldess&theme=tokyonight" />
+  <img width="49%" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielvaldess&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=danielvaldess&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
